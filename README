@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3191
+
+This plugin allows you to edit wiki pages of a remote DokuWiki [1] instance using the DokuWiki XMLRPC API. 
+
+For more information please visit  http://www.chimeric.de/projects/dokuwiki/dokuvimki
+
+[1] http://dokuwiki.org
